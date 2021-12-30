@@ -1,8 +1,8 @@
-##Postman Usage
+## Postman Usage
 
 
 
-####Using Postman to test API
+#### Using Postman to test API
 - **GET** - Get all wines 
 - **GET** - Get wine By Id
 - **POST** - Create new wine
