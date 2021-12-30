@@ -13,8 +13,8 @@
 ### GET - Get all wines 
 ![plot](img/GetWineList.JPG)
 
-### GET - Get wine By Id
-![plot](img/GetWineById.JPG)
+### GET - Get Wine By Id
+![plot](img/GetWineByID.JPG)
 
 ### POST - Create new wine
 ![plot](img/PostAddNewWineAdded.JPG)
