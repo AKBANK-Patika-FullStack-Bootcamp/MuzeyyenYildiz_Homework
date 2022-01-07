@@ -95,7 +95,7 @@ namespace WineryData.Controllers
             return _result;
         }
 
-
+        [HttpPost]
         public List<Wine> AddWine()
         {
             List<Wine> lst = new List<Wine>();

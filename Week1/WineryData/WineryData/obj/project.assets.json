@@ -215,11 +215,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Kenan\\Desktop\\Dotnet Bootcamp\\WineryData\\WineryData\\WineryData.csproj",
+      "projectUniqueName": "C:\\Users\\Kenan\\Desktop\\Dotnet Bootcamp\\MuzeyyenYildiz_Homework\\Week1\\WineryData\\WineryData\\WineryData.csproj",
       "projectName": "WineryData",
-      "projectPath": "C:\\Users\\Kenan\\Desktop\\Dotnet Bootcamp\\WineryData\\WineryData\\WineryData.csproj",
+      "projectPath": "C:\\Users\\Kenan\\Desktop\\Dotnet Bootcamp\\MuzeyyenYildiz_Homework\\Week1\\WineryData\\WineryData\\WineryData.csproj",
       "packagesPath": "C:\\Users\\Kenan\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Kenan\\Desktop\\Dotnet Bootcamp\\WineryData\\WineryData\\obj\\",
+      "outputPath": "C:\\Users\\Kenan\\Desktop\\Dotnet Bootcamp\\MuzeyyenYildiz_Homework\\Week1\\WineryData\\WineryData\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
