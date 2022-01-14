@@ -1,0 +1,133 @@
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\bin\Debug\net6.0\appsettings.json
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\bin\Debug\net6.0\WineryData.exe
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\bin\Debug\net6.0\WineryData.deps.json
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\bin\Debug\net6.0\WineryData.runtimeconfig.json
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\bin\Debug\net6.0\WineryData.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\bin\Debug\net6.0\ref\WineryData.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\bin\Debug\net6.0\WineryData.pdb
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\WineryData.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\WineryData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\WineryData.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\WineryData.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\WineryData.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\WineryData.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\WineryData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\scopedcss\bundle\WineryData.styles.css
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\WineryData.csproj.CopyComplete
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\WineryData.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\ref\WineryData.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\WineryData.pdb
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\WineryData\WineryData\obj\Debug\net6.0\WineryData.genruntimeconfig.cache
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\bin\Debug\net6.0\appsettings.json
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\bin\Debug\net6.0\WineryData.exe
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\bin\Debug\net6.0\WineryData.deps.json
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\bin\Debug\net6.0\WineryData.runtimeconfig.json
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\bin\Debug\net6.0\WineryData.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\bin\Debug\net6.0\ref\WineryData.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\bin\Debug\net6.0\WineryData.pdb
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\WineryData.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\WineryData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\WineryData.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\WineryData.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\WineryData.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\WineryData.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\WineryData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\scopedcss\bundle\WineryData.styles.css
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\WineryData.csproj.CopyComplete
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\WineryData.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\ref\WineryData.dll
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\WineryData.pdb
+C:\Users\Kenan\Desktop\Dotnet Bootcamp\MuzeyyenYildiz_Homework\Week1\WineryData\WineryData\obj\Debug\net6.0\WineryData.genruntimeconfig.cache
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\WineryData.csproj.AssemblyReference.cache
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\WineryData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\WineryData.AssemblyInfoInputs.cache
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\WineryData.AssemblyInfo.cs
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\WineryData.csproj.CoreCompileInputs.cache
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\WineryData.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\WineryData.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\ref\WineryData.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\WineryData.pdb
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\appsettings.json
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\WineryData.exe
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\WineryData.deps.json
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\WineryData.runtimeconfig.json
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\WineryData.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\ref\WineryData.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\WineryData.pdb
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Azure.Core.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\EntityFramework.SqlServer.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\EntityFramework.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Humanizer.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.Graph.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.Graph.Core.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.Identity.Client.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\System.CodeDom.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\System.Configuration.ConfigurationManager.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\System.Drawing.Common.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\System.Memory.Data.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\System.Runtime.Caching.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\System.Security.Permissions.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\System.Text.Json.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\System.Windows.Extensions.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\DAL.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\EFLibCore.dll
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\DAL.pdb
+C:\Users\Kenan\Desktop\WineryData\WineryData\bin\Debug\net6.0\EFLibCore.pdb
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\WineryData.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\scopedcss\bundle\WineryData.styles.css
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\WineryData.csproj.CopyComplete
+C:\Users\Kenan\Desktop\WineryData\WineryData\obj\Debug\net6.0\WineryData.genruntimeconfig.cache

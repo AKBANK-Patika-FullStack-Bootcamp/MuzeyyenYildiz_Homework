@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32014.148
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "WineryData", "WineryData\WineryData.csproj", "{0E5628AA-697D-41D7-915C-4F1889F38D11}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{3BA3AFF4-5D03-40A4-8460-B01FD4C6BD50}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EFLibCore", "EFLibCore\EFLibCore.csproj", "{ABFB9877-2DCD-4B8B-94EE-DD9B8B1AFFFB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E5628AA-697D-41D7-915C-4F1889F38D11}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5628AA-697D-41D7-915C-4F1889F38D11}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5628AA-697D-41D7-915C-4F1889F38D11}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5628AA-697D-41D7-915C-4F1889F38D11}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3BA3AFF4-5D03-40A4-8460-B01FD4C6BD50}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3BA3AFF4-5D03-40A4-8460-B01FD4C6BD50}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3BA3AFF4-5D03-40A4-8460-B01FD4C6BD50}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3BA3AFF4-5D03-40A4-8460-B01FD4C6BD50}.Release|Any CPU.Build.0 = Release|Any CPU
+		{ABFB9877-2DCD-4B8B-94EE-DD9B8B1AFFFB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{ABFB9877-2DCD-4B8B-94EE-DD9B8B1AFFFB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{ABFB9877-2DCD-4B8B-94EE-DD9B8B1AFFFB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{ABFB9877-2DCD-4B8B-94EE-DD9B8B1AFFFB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0A3C18D8-9EE3-4413-B0DA-D041E8259FB4}
+	EndGlobalSection
+EndGlobal
