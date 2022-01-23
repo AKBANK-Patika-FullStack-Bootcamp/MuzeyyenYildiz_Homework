@@ -21,6 +21,13 @@
 - WineryData API added
 - README.md file added 
 
+### Homework 5 (Week 5)
+##### Login operations 
+- User login operation
+- Create token 
+- Pagination
+
+
 
 
 
