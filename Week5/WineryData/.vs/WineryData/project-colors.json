@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "0e5628aa-697d-41d7-915c-4f1889f38d11": {
+      "ProjectGuid": "0e5628aa-697d-41d7-915c-4f1889f38d11",
+      "DisplayName": "WineryData",
+      "ColorIndex": 0
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "3ba3aff4-5d03-40a4-8460-b01fd4c6bd50": {
+      "ProjectGuid": "3ba3aff4-5d03-40a4-8460-b01fd4c6bd50",
+      "DisplayName": "DAL",
+      "ColorIndex": 1
+    },
+    "abfb9877-2dcd-4b8b-94ee-dd9b8b1afffb": {
+      "ProjectGuid": "abfb9877-2dcd-4b8b-94ee-dd9b8b1afffb",
+      "DisplayName": "EFLibCore",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
